@@ -71,6 +71,46 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Gretchen Dickinson",
+            "specialty": "Programming"
+        },
+        {
+            "id": 4,
+            "name": "Phillip Herman",
+            "specialty": "Networking"
+        },
+        {
+            "id": 5,
+            "name": "Brett Feest",
+            "specialty": "Mac"
+        },
+        {
+            "id": 6,
+            "name": "Noah Purdy",
+            "specialty": "Windows"
+        },
+        {
+            "id": 7,
+            "name": "Vicki Bartell",
+            "specialty": "Android"
+        },
+        {
+            "id": 8,
+            "name": "Tasha Weber",
+            "specialty": "Linux"
+        },
+        {
+            "id": 9,
+            "name": "Dana Goodwin",
+            "specialty": "Computer Hardware"
+        },
+        {
+            "id": 10,
+            "name": "Hilda Grant",
+            "specialty": "Quantum Computing"
         }
     ],
     "serviceTickets": [
